@@ -1,2 +1,8 @@
-# sql-data-cleaning-project
-SQL script to clean and preprocess customer transaction data using standard data cleaning techniques like removing duplicates, fixing formats, and handling nulls.
+# 🧹 SQL Data Cleaning Project
+
+This project contains a SQL script that performs data cleaning on a sample `CustomerTransaction` table. It covers common data cleaning tasks such as:
+- Replacing missing values
+- Removing duplicates
+- Fixing email formats
+- Standardizing text
+- Removing invalid transactions
